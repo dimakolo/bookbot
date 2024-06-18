@@ -1,3 +1,8 @@
+#specific to the project files
+books/
+.history
+
+### random stuff github shoved in here
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
